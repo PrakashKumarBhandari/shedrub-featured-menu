@@ -1,0 +1,18 @@
+.pkb_inside_loop{
+    width: 100%;
+}
+.pkb_repeter_form{
+    padding: 3%;
+    border: 1px solid #ccc;
+}
+.pkb_repeter_form{
+    display: none;
+}
+.textareagroup{
+    text-align: left!important;
+    padding: 5px;
+    margin: 0px;
+}
+.image_thumb_disp{
+    width: 400px;
+}
